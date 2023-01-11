@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/primeiro-app-react/static/css/main.e282d347.css",
+    "main.js": "/primeiro-app-react/static/js/main.bdc613b8.js",
+    "static/js/787.f80339df.chunk.js": "/primeiro-app-react/static/js/787.f80339df.chunk.js",
+    "static/media/logo.svg": "/primeiro-app-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/primeiro-app-react/index.html",
+    "main.e282d347.css.map": "/primeiro-app-react/static/css/main.e282d347.css.map",
+    "main.bdc613b8.js.map": "/primeiro-app-react/static/js/main.bdc613b8.js.map",
+    "787.f80339df.chunk.js.map": "/primeiro-app-react/static/js/787.f80339df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e282d347.css",
+    "static/js/main.bdc613b8.js"
+  ]
+}
